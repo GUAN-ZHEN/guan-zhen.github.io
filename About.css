@@ -1,0 +1,340 @@
+.one {
+    z-index: 9999;
+    padding-bottom: 10px;
+}
+
+.logo {
+    width: 20%;
+    display: flex;
+    align-items: center;
+
+}
+
+.logo img {
+    width: 30%;
+    padding-left: 5px;
+}
+
+.logo h1 {
+    font-size: 300%;
+    padding-top: 20px;
+    padding-left: 10px;
+    color: #66BBC1;
+    letter-spacing: 1px;
+}
+
+
+.about1 img {
+    width: 100%;
+}
+
+.two {
+    width: 100%;
+    height: 1300px;
+}
+
+
+
+.two h1 {
+    color: #66BBC1;
+    font-weight: 500;
+    font-size: 60pt;
+    margin-left: 35%;
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+
+.idea {
+    display: flex;
+}
+
+
+.two h2 {
+    color: #66BBC1;
+    font-size: 15pt;
+    font-weight: bold;
+    margin-top: 1%;
+    margin-left: 30%;
+    margin-bottom: 1.5%;
+}
+
+.two h3 {
+    color: #66BBC1;
+    font-size: 15pt;
+    font-weight: bold;
+    margin-top: 1%;
+    margin-left: 17%;
+}
+
+.two h4 {
+    color: #66BBC1;
+    font-size: 15pt;
+    font-weight: bold;
+    margin-top: 1%;
+    margin-left: 40%;
+    margin-bottom: 3%;
+}
+
+.bar {
+    width: 43%;
+    position: absolute;
+    right: 0;
+}
+
+.two img {
+    width: 60%;
+    margin-left: 20%;
+}
+
+.three {
+    display: flex;
+    height: 970px;
+    background-color: #F1EFEE;
+    margin-top: 5%;
+}
+
+.layout1 img {
+    width: 80%;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.layout2 img {
+    width: 80%;
+    margin-top: 23%;
+}
+
+.three h1 {
+    font-size: 10pt;
+    color: #66BBC1;
+    font-weight: bold;
+    margin-left: 31%;
+    padding-top: 10%;
+}
+
+.three h2 {
+    color: #66BBC1;
+    font-weight: 900;
+    letter-spacing: 30px;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.three h3 {
+    color: #66BBC1;
+    font-weight: 900;
+    font-size: 12pt;
+    padding-right: 25%;
+    padding-top: 3%;
+    text-align: center;
+    line-height: 25px;
+}
+
+.layout2 span {
+    width: 60%;
+    height: 1px;
+    background: #66BBC1;
+    display: block;
+    margin-left: 10%;
+}
+
+
+.layout3 img {
+    width: 100%;
+}
+
+
+.four {
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.layout4 img {
+    margin-left: 13%;
+    margin-top: 15%;
+    width: 100%;
+}
+
+.layout5 {
+    margin-left: 13%;
+    margin-top: 10%;
+}
+
+.four span {
+    width: 60%;
+    height: 1.5px;
+    background: #66BBC1;
+    display: block;
+    margin-left: 15%;
+}
+
+.four h1 {
+    font-size: 10pt;
+    color: #66BBC1;
+    font-weight: bold;
+    margin-left: 35%;
+    padding-top: 10%;
+}
+
+.four h2 {
+    color: #66BBC1;
+    font-weight: 900;
+    letter-spacing: 30px;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.four h3 {
+    color: #66BBC1;
+    font-weight: 900;
+    font-size: 12pt;
+    padding-right: 13%;
+    padding-top: 3%;
+    text-align: center;
+    line-height: 25px;
+}
+
+
+.layout6 img {
+    margin-top: 10%;
+    width: 90%;
+}
+
+.five {
+    background-color: #F1EFEE;
+    height: 1230px;
+}
+
+.five h1 {
+    font-size: 10pt;
+    color: #66BBC1;
+    font-weight: bold;
+    margin-left: 45%;
+    padding-top: 5%;
+}
+
+.five h2 {
+    color: #66BBC1;
+    font-weight: 900;
+    letter-spacing: 30px;
+    margin-left: 41%;
+    margin-top: 2%;
+}
+
+.five span {
+    width: 87%;
+    height: 1.5px;
+    background-color: #66BBC1;
+    display: block;
+    margin-left: 6%;
+}
+
+.layout7 {
+    display: flex;
+}
+
+.about12 img {
+    width: 90%;
+    margin-top: 8%;
+    padding-left: 15%;
+}
+
+.about13 img {
+    width: 75%;
+    margin-top: 9%;
+}
+
+.six{
+    display: flex;
+    margin-bottom: 8%;
+}
+
+.about14{
+    margin-top: 10%;
+    margin-left:8%;
+}
+
+.about14 img{
+    margin-top: 20%;
+}
+
+.about15 img{
+    width: 120%;
+}
+
+.about15{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+.six h1 {
+    font-size: 10pt;
+    color: #66BBC1;
+    font-weight: bold;
+    margin-left: 42%;
+    padding-top:25%;
+}
+
+.six h2 {
+    color: #66BBC1;
+    font-weight: 900;
+    letter-spacing: 30px;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.six h3 {
+    color: #66BBC1;
+    font-weight: 900;
+    font-size: 12pt;
+    padding-right: 0%;
+    padding-top: 3%;
+    text-align: center;
+    line-height: 25px;
+}
+
+.six span {
+    width: 87%;
+    height: 1.5px;
+    background-color: #66BBC1;
+    display: block;
+    margin-left: 6%;
+}
+
+.seven {
+    width: 100%;
+    background-color: #66BBC1;
+    margin-top: 5%;
+    padding-bottom: 2%;
+    display: flex;
+}
+
+.text5 {
+    color: white;
+    padding-left: 13%;
+    padding-top: 5%;
+}
+
+.text6 {
+    color: white;
+    padding-left: 15%;
+    padding-top: 5%;
+}
+
+.text7 {
+    color: white;
+    padding-left: 20%;
+    padding-top: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+

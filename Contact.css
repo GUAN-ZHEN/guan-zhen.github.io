@@ -1,0 +1,142 @@
+.one {
+    z-index: 9999;
+    padding-bottom: 10px;
+}
+
+.logo {
+    width: 20%;
+    display: flex;
+    align-items: center;
+
+}
+
+.logo img {
+    width: 30%;
+    padding-left: 5px;
+}
+
+.logo h1 {
+    font-size: 300%;
+    padding-top: 20px;
+    padding-left: 10px;
+    color: #66BBC1;
+    letter-spacing: 1px;
+}
+
+.bar {
+    width: 43%;
+    position: absolute;
+    right: 0;
+}
+
+.two h1 {
+    font-size: 10pt;
+    color: #66BBC1;
+    font-weight: bold;
+    margin-left: 3%;
+    padding-top: 2%;
+}
+
+.product {
+    display: flex;
+    margin-top: 1%;
+}
+
+
+
+.product img {
+    width: 30%;
+    margin-left: 3%;
+}
+
+
+.text {
+    margin-left: 1%;
+}
+
+.text h2 {
+    width: 100%;
+    font-size: 20pt;
+    color: #66BBC1;
+    font-weight: bold;
+    margin-left: 20%;
+}
+
+.text h3 {
+    font-size: 18pt;
+    color: #66BBC1;
+    font-weight: bold;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+.form {
+    margin-top: 30%;
+    margin-left: 20%;
+    widows: 100%;
+}
+
+.text button {
+    margin-top: 10%;
+    margin-left: 20%;
+    background-color: #7B7B7B;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    height: 7%;
+    width: 40%;
+}
+
+.text button:hover{
+background-color: #66BBC1;
+    transition: all 0.3s;
+}
+
+.form-group1{
+    color: #66BBC1;
+    font-weight: 800;
+}
+
+.form-group2{
+    margin-top: 10%;
+    color: #66BBC1;
+    font-weight: 800;
+}
+
+.form-group3{
+    margin-top: 10%;
+    color: #66BBC1;
+    font-weight: 800;
+}
+
+.three {
+    width: 100%;
+    background-color: #66BBC1;
+    margin-top: 5%;
+    padding-bottom: 2%;
+    display: flex;
+}
+
+
+.text5 {
+    color: white;
+    padding-left: 13%;
+    padding-top: 5%;
+}
+
+.text6 {
+    color: white;
+    padding-left: 15%;
+    padding-top: 5%;
+}
+
+.text7 {
+    color: white;
+    padding-left: 20%;
+    padding-top: 5%;
+}
+
+
+
+
+
